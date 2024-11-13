@@ -15,3 +15,8 @@ hello everyone!I'm a graduate student.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+hello everyone!I'm a graduate student.
+- 🔭 I’m currently working on openfoam
+- 🌱 I’m currently learning c++ NHT openfoam
+- 👯 I’m looking to collaborate on everything interested
+- 🤔 I’m looking for help with NHT
